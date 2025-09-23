@@ -11,3 +11,9 @@ def division(a, b):
         return a / b
     else:
         return "Error! Division by zero."
+    
+def modulus(a, b):
+    return a % b    
+def exponentiation(a, b):
+    return a ** b
+
